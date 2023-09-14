@@ -1,6 +1,25 @@
-# 💫 About Me:
-🧠 Passionate thinker and tech enthusiast with a penchant for problem-solving.<br>🚀 On a quest to make my existence a remarkable story, one day at a time.<br>🔭 I'm currently working on **Lunara**, a fintech company aimed at revolutionizing banking in MENA.<br>🤝 I’m looking for help with hiring and web security.<br>🎶 Music is my soul food, and I enjoy singing and sharing poetry with friends and family.<br>💖 Beauty lies in character, the way you carry yourself, and the warmth of your smile.<br>🌱 Committed to personal and professional growth, ready for new adventures.<br>💬 Ask me about philosophy, development, fintech, science, and technology.<br>⚡ Fun Fact: I believe in the "Ctrl + Z" magic of life, where we all wish we could undo that awkward conversation we had three years ago. 🤦‍♂️😂<br><br>⚡ Achievements:<br>- 🏆 Achieved a 99.99 percentile in the National Aptitude Test.<br>- 🥇 Won the Best Industrial Project Award from the No. 1 University in Pakistan.<br>
+## 💫 About Me
+- 🧠 Passionate thinker and tech enthusiast with a penchant for problem-solving.
+- 🚀 On a quest to make my existence a remarkable story, one day at a time.
 
+## 🔭 Current Work
+- I'm currently working on **Lunara**, a fintech company aimed at revolutionizing banking in MENA.
+- 🤝 I’m looking for help with hiring and web security.
+
+## 🎶 Interests
+- 🎶 Music is my soul food, and I enjoy singing and sharing poetry with friends and family.
+- 💖 Beauty lies in character, the way you carry yourself, and the warmth of your smile.
+- 🌱 Committed to personal and professional growth, ready for new adventures.
+
+## 💬 Topics of Expertise
+- Ask me about philosophy, development, fintech, science, and technology.
+
+## ⚡ Fun Fact
+- I believe in the "Ctrl + Z" magic of life, where we all wish we could undo that awkward conversation we had three years ago. 🤦‍♂️😂
+
+And speaking of magic:
+- 🎯 Achieved a 99.99 percentile in the National Aptitude Test – Like hitting the highest score in a game you've never played before!
+- 🥇 Won the Best Industrial Project Award from the No. 1 University in Pakistan – Turns out, I'm not just a tech enthusiast; I'm a wizard of innovation too! 🧙‍♂️🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmad-salman-khan/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/13083814/ahmad-salman-khan?tab=profile) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_Ahmad_Salman1) 
