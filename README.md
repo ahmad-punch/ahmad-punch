@@ -6,7 +6,7 @@
 - I'm currently working on **Lunara**, a fintech company aimed at revolutionizing banking in MENA.
 - 🤝 I’m looking for help with hiring and web security.
 
-## 🎶 Interests
+## 🎶 Interests & Thoughts
 - 🎶 Music is my soul food, and I enjoy singing and sharing poetry with friends and family.
 - 💖 Beauty lies in character, the way you carry yourself, and the warmth of your smile.
 - 🌱 Committed to personal and professional growth, ready for new adventures.
