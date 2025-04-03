@@ -3,8 +3,16 @@
 - 🚀 On a quest to make my existence a remarkable story, one day at a time.
 
 ## 🔭 Current Work
-- I'm currently working on **Lunara**, a fintech company aimed at revolutionizing banking in MENA.
-- 🤝 I’m looking for help with hiring and web security.
+- Currently building **Cruise AI**, where we’re redefining healthcare with the power of AI.  
+- Starting with an **AI medical scribe** that supports **multilingual transcription** and **automated clinical note generation**, our goal is to save doctors time and improve care quality.  
+- Working toward **HIPAA-compliant** systems that include:  
+  - Intelligent transcription  
+  - AI-powered medical documentation  
+  - Clinical issue detection  
+  - Future products in **medical record digitization**, **automated billing**, and **AI voice agents** that assist patients and providers in real time.  
+- Previously at **Lunara**, a fintech startup building next-gen banking infrastructure for MENA.  
+- 🤝 Always looking to collaborate with top talent in **AI, product, security, and engineering**.
+
 
 ## 🎶 Interests & Thoughts
 - 🎶 Music is my soul food, and I enjoy singing and sharing poetry with friends and family.
@@ -12,6 +20,7 @@
 - 🌱 Committed to personal and professional growth, ready for new adventures.
 
 ## 💬 Topics of Expertise
+- **Product-led AI**, **startup strategy**, **deep tech**, and **ethical innovation**  
 - Ask me about philosophy, development, fintech, science, and technology.
 
 ## ⚡ Fun Fact
