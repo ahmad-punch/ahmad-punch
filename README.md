@@ -30,6 +30,12 @@ And speaking of magic:
 - 🎯 Achieved a 99.99 percentile in the National Aptitude Test – Like hitting the highest score in a game you've never played before!
 - 🥇 Won the Best Industrial Project Award from the No. 1 University in Pakistan – Turns out, I'm not just a tech enthusiast; I'm a wizard of innovation too! 🧙‍♂️🚀
 
+## 🔍 What I’m Looking For  
+- Meaningful connections with **mission-driven builders**  
+- Opportunities to scale **AI-first products**  
+- Roles that combine **tech, storytelling, and impact**  
+- Conversations that challenge assumptions and expand perspectives  
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-salman-khan/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13083814/ahmad-salman-khan?tab=profile) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_Ahmad_Salman1) 
 
