@@ -1,18 +1,35 @@
-## 💫 About Me
-- 🧠 Passionate thinker and tech enthusiast with a penchant for problem-solving.
-- 🚀 On a quest to make my existence a remarkable story, one day at a time.
+# 🚀 Ahmad Salman Khan | Senior AI & DevEx Engineer
 
-## 🔭 Current Work
-- Currently building **Cruise AI**, where we’re redefining healthcare with the power of AI.  
+**Architecting the future of high-velocity engineering through Agentic AI and Predictive Infrastructure.**
+
+---
+
+## 💫 About Me
+- 🧠 **Passionate thinker and tech enthusiast** with a penchant for problem-solving.
+- 🚀 **On a quest to make my existence a remarkable story**, one day at a time.
+- 🧠 **Technologist & Architect:** 9+ years experience building scalable systems and intelligent automation.
+- 🎯 **Performance Driven:** Achieved **99.99 percentile** in the National Aptitude Test.
+- 🥇 **Award Winning:** Recipient of the **Best Industrial Project Award** from Pakistan's #1 University (NUST).
+- 🚀 **Mission:** Moving beyond traditional SDLC by building "intelligent" ecosystems that predict failures and automate triage.
+
+## 🔭 High-Impact Work
+- Currently building **Cruise AI**, where we’re redefining healthcare with the power of AI. 
+- Architecting HIPAA-compliant Agentic pipelines and high-throughput transcription infrastructure
 - Starting with an **AI medical scribe** that supports **multilingual transcription** and **automated clinical note generation**, our goal is to save doctors time and improve care quality.  
-- Working toward **HIPAA-compliant** systems that include:  
+- Building **HIPAA-compliant** systems that include:  
   - Intelligent transcription  
   - AI-powered medical documentation  
   - Clinical issue detection  
   - Future products in **medical record digitization**, **automated billing**, and **AI voice agents** that assist patients and providers in real time.  
-- Previously at **Lunara**, a fintech startup building next-gen banking infrastructure for MENA.  
+- Previously:
+- **Lunara (Founder/CTO):** Built VC-backed fintech infrastructure, automating complex KYC/AML and Tier-1 bank integrations.
 - 🤝 Always looking to collaborate with top talent in **AI, product, security, and engineering**.
 
+## 🛠️ Specialized Expertise (DevEx & AI)
+- **Agentic AI:** MCP (Model Context Protocol), LLM Orchestration (LangChain/Autogen), Agentic RAG.
+- **Predictive Ops:** Predictive modeling for build failures, high-risk commit flagging, and MTTR reduction.
+- **Infrastructure:** CI/CD (Jenkins, GitLab CI), Kubernetes, Terraform, Docker, and NVIDIA NIM.
+- **Languages:** Python (Expert), Go, TypeScript, Node.js (NestJS).
 
 ## 🎶 Interests & Thoughts
 - 🎶 Music is my soul food, and I enjoy singing and sharing poetry with friends and family.
@@ -36,7 +53,7 @@ And speaking of magic:
 - Roles that combine **tech, storytelling, and impact**  
 - Conversations that challenge assumptions and expand perspectives  
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-salman-khan/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13083814/ahmad-salman-khan?tab=profile) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_Ahmad_Salman1) 
 
 # 💻 Tech Stack:
